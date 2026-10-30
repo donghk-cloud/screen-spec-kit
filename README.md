@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **이 저장소는 [dongdongdongdongding/product_design_dongh](https://github.com/dongdongdongdongding/product_design_dongh)로 옮겼습니다.** 플러그인 이름도 `product_design_dongh`로 바뀌었고, 새 버전(1.3.0~)은 그쪽에서만 올라갑니다.
+>
+> ```
+> /plugin install product_design_dongh --marketplace dongdongdongdongding/product_design_dongh
+> ```
+
 <div align="center">
 
 <img src="docs/media/icon.png" alt="" width="96" height="96">
